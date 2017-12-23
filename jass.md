@@ -64,3 +64,5 @@ BOOL APIENTRY DllMain(HMODULE hModule, DWORD  ul_reason_for_call, LPVOID lpReser
 	}
     return TRUE;
 }
+
+This is fork from : http://www.wc3c.net/showthread.php?t=84417
